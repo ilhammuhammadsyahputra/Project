@@ -1,4 +1,4 @@
-# Project D'Katalis
+# Project
 
 ## Keterangan
 Project ini saya kerjakan menggunakan tools Automation Testing, Tools yang saya gunakan adalah Cypress. Untuk Mengetahui tentang cypress lebih dalam dapat melalui site berikut : https://www.cypress.io/.
